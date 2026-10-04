@@ -1,0 +1,4 @@
+model,accuracy,macro_F1,n_errors
+DecisionTree,1.0,1.0,0
+RandomForest,1.0,1.0,0
+SVM_RBF,1.0,1.0,0
