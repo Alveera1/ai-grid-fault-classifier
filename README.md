@@ -2,14 +2,6 @@
 
 Classifying normal operation and electrical fault conditions (NF, LG, LL, LLG, LLL, LLLG) from PMU voltage, current and frequency data, using Python, Decision Tree, Random Forest and SVM.
 
-## Team
-| Member | Name | Roll no. | Role | Branch |
-|---|---|---|---|---|
-| 1 | Alveera | ____ | Data Lead and Repository Owner | m1-data |
-| 2 | ____ | ____ | Visualization and Electrical-Domain Lead | m2-viz |
-| 3 | ____ | ____ | Modeling Lead | m3-model |
-| 4 | ____ | ____ | Evaluation, Robustness and Documentation Lead | m4-eval |
-
 ## Folder structure
 - data/raw/PMU_Fault_Data.csv : original data, never edited
 - data/processed/clean.csv : cleaned data (duplicates and warm-up rows removed)
