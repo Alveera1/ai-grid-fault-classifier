@@ -1,0 +1,7 @@
+features,model,accuracy,macro_F1
+all 12,DecisionTree,1.0,1.0
+all 12,RandomForest,1.0,1.0
+only Ia..Vc,DecisionTree,0.8623558822431999,0.8677653923666319
+only Ia..Vc,RandomForest,1.0,1.0
+without Im/Vm/Pai/Pav,DecisionTree,0.9214954665870676,0.9228035450193826
+without Im/Vm/Pai/Pav,RandomForest,1.0,1.0
